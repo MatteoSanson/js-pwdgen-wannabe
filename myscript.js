@@ -13,6 +13,6 @@ console.log(numeroCasuale);
 
 generata.innerHTML = nomeUtente + cognomeUtente + coloreUtente + numeroCasuale;
 
+console.log (generata);
 
-// numero casuale
 
