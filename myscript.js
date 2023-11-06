@@ -14,7 +14,7 @@ console.log('Numero Casuale:', numeroCasuale);
 const password = nomeUtente + cognomeUtente + coloreUtente + numeroCasuale;
 console.log ('password generata:', password);
 
-generata.innerHTML = nomeUtente + cognomeUtente + coloreUtente + numeroCasuale;
+generata.innerHTML = password;
 
 
 
